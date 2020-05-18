@@ -1,0 +1,34 @@
+html, body {
+	font-size: 14px;
+	font-family: nanumgothic !important;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: #c98b74 !important;
+}
+
+img:hover {
+	cursor: pointer;
+}
+
+.container {
+	width: 1250px;
+	max-width: none !important;
+}
+
+.container-fluid {
+	width: 1250px;
+	max-width: none !important;
+}
+
+.ppojjak{
+	margin: 0; 
+	padding: 0;
+}
+.cantsee{
+	display: none;
+}
+.cansee{
+	display: block;
+}
