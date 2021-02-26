@@ -8,7 +8,7 @@
 ---
 
 ## 개발 팀 정보
-- 팀명 : fallinlove
+- 팀명 : Fall in Love
 - 팀장 : 송무송([@moosongsong](https://github.com/moosongsong))
 - 부팀장 : 김우석([@WOOSERK](https://github.com/WOOSERK))
 - 팀원 : 문효원([@moon-hw](https://github.com/moon-hw)), 박원창([wonchangPark](https://github.com/wonchangPark))
@@ -19,18 +19,38 @@
 <details markdown="1">
 <summary>프로젝트 개요</summary>
 [프로젝트 개요](#1)<br/>
-    [1. 주제 선정 동기](#1.1)<br/>
-    [2. 제공 시스템 사양](#1.2)<br/>
-    [3. 개발 환경 및 사용 기술](#1.3)
+    [1. 서비스 설명](#1.1)<br/>
+    [2. 사용 기술](#1.2)<br/>
+    [3. 팀 업무 분담](#1.3)
+</details>
+
+<details markdown="2">
+<summary>서비스 설계</summary>
+[서비스 설계](#2)<br/>
+    [1. 회원관리](#2.1)<br/>
+    [2. 1:1 쪽지](#2.2)<br/>
+    [3. 자유게시판](#2.3)<br/>
+    [4. 장터게시판](#2.4)<br/>
+    [5. 홍보게시판](#2.5)<br/>
+    [6. 댓글&좋아요](#2.6)<br/>
 </details>
 
 ---
 
 <span id="1"></span>
 ## 프로젝트 개요
+
+<span id="1.1"></span>
+### 1. 서비스 설명
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0005.jpg"></p>
 
+<span id="1.2"></span>
+### 2. 사용 기술
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0007.jpg"></p>
 
+<span id="1.3"></span>
+### 3. 팀 업무 분담
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0006.jpg"></p>
 
 
 
