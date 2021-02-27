@@ -18,17 +18,20 @@
 ### 목차
 <details markdown="1">
 <summary>프로젝트 개요</summary>
+
 [프로젝트 개요](#1)<br/>
     [1. 서비스 설명](#1.1)<br/>
     [2. 사용 기술](#1.2)<br/>
     [3. 팀 업무 분담](#1.3)
+    [4. 프로젝트 수행 일정](#1.4)
 </details>
 
 <details markdown="2">
 <summary>서비스 설계</summary>
+
 [서비스 설계](#2)<br/>
-    [1. 회원관리](#2.1)<br/>
-    [2. 1:1 쪽지](#2.2)<br/>
+    [1. DB 설계](#2.1)<br/>
+    [2. SW 설계](#2.2)<br/>
     [3. 자유게시판](#2.3)<br/>
     [4. 장터게시판](#2.4)<br/>
     [5. 홍보게시판](#2.5)<br/>
@@ -52,11 +55,25 @@
 ### 3. 팀 업무 분담
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0006.jpg"></p>
 
+<span id="1.4"></span>
+### 4. 프로젝트 수행 일정
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0008.jpg"></p>
 
+---
 
+<span id="2"></span>
+## 서비스 설계
 
+<span id="2.1"></span>
+### 1. DB 설계
+#### ER-Diagram
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0009.jpg"></p>
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0010.jpg"></p>
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0011.jpg"></p>
 
-
+#### 논리스키마
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0012.jpg"></p>
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0013.jpg"></p>
 
 
 
