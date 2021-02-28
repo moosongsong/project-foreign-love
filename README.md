@@ -1,7 +1,7 @@
 # ForeignLove
 #### 교환학생들을 위한 커뮤니티 서비스입니다.
 
-'Foreign Love'는 교환상생들을 위한 커뮤니티 입니다.
+'Foreign Love'는 한국학생 중 외국 교환 프로그램에 참여하는 학생들을 위한 커뮤니티 입니다.
 
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0001.jpg"></p>
 
@@ -29,13 +29,14 @@
 <details markdown="2">
 <summary>서비스 설계</summary>
 
-[서비스 설계](#2)<br/>
+[서비스 설계 및 소개](#2)<br/>
     [1. DB 설계](#2.1)<br/>
-    [2. SW 설계](#2.2)<br/>
-    [3. 자유게시판](#2.3)<br/>
-    [4. 장터게시판](#2.4)<br/>
-    [5. 홍보게시판](#2.5)<br/>
-    [6. 댓글&좋아요](#2.6)<br/>
+    [2. 회원관리](#2.2)<br/>
+    [3. 1:1쪽지](#2.3)<br/>
+    [4. 자유게시판](#2.4)<br/>
+    [5. 장터게시판](#2.5)<br/>
+    [6. 홍보게시판](#2.6)<br/>
+    [7. 댓글&좋아요](#2.7)<br/>
 </details>
 
 ---
@@ -52,7 +53,7 @@
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0007.jpg"></p>
 
 <span id="1.3"></span>
-### 3. 팀 업무 분담
+### 3. 팀 업무 분담 
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0006.jpg"></p>
 
 <span id="1.4"></span>
@@ -62,7 +63,7 @@
 ---
 
 <span id="2"></span>
-## 서비스 설계
+## 서비스 설계 및 소개
 
 <span id="2.1"></span>
 ### 1. DB 설계
@@ -76,12 +77,22 @@
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0013.jpg"></p>
 
 
-
-
-
-
-
-
-[comment]: <> (# Servlet_Final_Project_ForeignLove)
-
-[comment]: <> (JSP, java, html, css, json, xml, sql 사용한 최종 프로젝트)
+<span id="2.2></span>
+### 2. 회원관리
+#### 📍회원가입
+이메일/비밀번호/비밀번호확인/본명/전화번호/생년월일/별명/학교/교환시작일자/주소 기입<br/>
+🔎이메일 중복확인, 닉네임 중복확인, 개인정보 활용 동의 후 최종 회원가입 가능
+#### 📍회원로그인
+이메일과 비밀번호를 통해 로그인 진행<br/>
+🔎비밀번호 분실 시 가입 시 등록했던 이메일 인증을 통해 비밀번호 찾기
+#### 📍마이페이지
+로그인 시 메인 페이지. 좌측에는 마이페이지 관련 프로필로 고정<br/>
+🔎본명/학교/성별/정보수정/글쓰기/쪽지함/검색 메뉴 고정
+#### 📍회원정보 수정
+비밀번호 인증후 개인정보 수정 가능<br/>
+🔎이메일, 본명, 생년월일, 닉네임 수정 불가
+#### 📍회원 탈퇴
+정보 수정 페이지 하단에서 회원탈퇴 가능<br/>
+🔎비밀번호 입력을 통한 본인 확인후 회원탈퇴 가능
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0018.jpg"></p>
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0019.jpg"></p>
