@@ -77,7 +77,7 @@
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0013.jpg"></p>
 
 
-<span id="2.2></span>
+<span id="2.2"></span>
 ### 2. 회원관리
 #### 📍회원가입
 이메일/비밀번호/비밀번호확인/본명/전화번호/생년월일/별명/학교/교환시작일자/주소 기입<br/>
@@ -96,3 +96,18 @@
 🔎비밀번호 입력을 통한 본인 확인후 회원탈퇴 가능
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0018.jpg"></p>
 <p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0019.jpg"></p>
+
+
+<span id="2.3"></span>
+### 3. 1:1 쪽지
+#### 📍쪽지 전송
+받은 사람의 이메일 주소와 내용 입력후 쪽지 전송 가능<br/>
+🔎전송 버튼을 누르면 수신자의 닉네임이 뜨며 전송. 받은 쪽지에 대한 답장 가능.
+#### 📍쪽지 확인
+받은 쪽지함/보낸쪽지함/학생보기 중 하나의 카테고리 선택 후 확인<br/>
+🔎쪽지번호/보낸사람/내용/일시/읽음 확인 순으로 내용 출력
+#### 📍쪽지함 관리
+학생보기는 본인을 제외한 같은 학교 학생의 리스트 제공<br/>
+🔎학년으로 내림차순.
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0022.jpg"></p>
+<p align="center"><img src="imagesForReadme/ForeignLove피피티발표자료_page-0023.jpg"></p>
