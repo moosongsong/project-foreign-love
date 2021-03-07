@@ -11,7 +11,7 @@
 - 팀명 : Fall in Love
 - 팀장 : 송무송([@moosongsong](https://github.com/moosongsong))
 - 부팀장 : 김우석([@WOOSERK](https://github.com/WOOSERK))
-- 팀원 : 문효원([@moon-hw](https://github.com/moon-hw)), 박원창([wonchangPark](https://github.com/wonchangPark))
+- 팀원 : 문효원([@moon-hw](https://github.com/moon-hw)), 박원창([@wonchangPark](https://github.com/wonchangPark))
 
 ---
 
@@ -132,7 +132,7 @@
 
 
 <span id="2.5"></span>
-### 4. 장터게시판
+### 5. 장터게시판
 #### 📍장터 게시판 글 작성
 제목/글분류/소분류/거래방법/첨부파일/판매가격/내용을 작성한 뒤 '글 등록' 버튼을 통해 등록
 #### 📍장터 게시판 글 수정
@@ -151,7 +151,7 @@
 
 
 <span id="2.6"></span>
-### 4. 홍보게시판
+### 6. 홍보게시판
 #### 📍홍보 게시판 글 작성
 제목/글분류/시작일/종료일/첨부파일/내용을 작성한 뒤 '글 등록' 버튼을 통해 등록<br/>
 🔎태그를 함께 달아서 글 게시 가능
@@ -172,7 +172,7 @@
 
 
 <span id="2.7"></span>
-### 5. 댓글&좋아요
+### 7. 댓글&좋아요
 #### 📍댓글 작성
 자유게시판, 장터게시판, 홍보게시판에 댓글 작성 후 등록버튼을 통해 등록
 #### 📍댓글 수정

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/mariadb-java-client-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForeignLove/WebContent/WEB-INF/lib/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
